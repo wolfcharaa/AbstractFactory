@@ -1,0 +1,24 @@
+{
+  "name": "wolfcharaa/abstract_factory",
+  "description": "Custom abstract factory for Symfony/Laravel",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "wolfchara\\AbstractFactory\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "wolfchara\\AbstractFactory\\": "src/"
+    }
+  },
+
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=8.1"
+  },
+  "require-dev": {
+    "php": ">=8.1"
+  }
+}
