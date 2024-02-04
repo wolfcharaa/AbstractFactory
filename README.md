@@ -4,7 +4,7 @@
 
 # Установка:
 
-`composer require wolfcharaa/abstract-factory`
+`composer require wolfcharaa/abstract_factory`
 
 **Использование:**
 
