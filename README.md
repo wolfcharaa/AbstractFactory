@@ -15,7 +15,11 @@
     ]
 ```
 
-`composer require wolfcharaa/abstract_factory:main-dev`
+И собственно установка
+
+```
+composer require wolfcharaa/abstract_factory:main-dev
+```
 
 **Использование:**
 
