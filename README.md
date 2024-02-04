@@ -4,9 +4,7 @@
 
 # Установка:
 
-`composer require elsa-lib/abstract-factory`
-
-
+`composer require wolfcharaa/abstract-factory`
 
 **Использование:**
 
