@@ -4,6 +4,17 @@
 
 # Установка:
 
+Внутри вашего проекта необходимо добавить репозиторий в composer.json:
+
+```
+"repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/wolfcharaa/AbstractFactory.git"
+        }
+    ]
+```
+
 `composer require wolfcharaa/abstract_factory:main-dev`
 
 **Использование:**
