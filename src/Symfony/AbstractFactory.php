@@ -39,7 +39,7 @@ class AbstractFactory
         ];
         $exitClass = null;
 
-        foreach ($names as $name) {
+        foreach ($names as $name => $count) {
             $className = "{$this->namespace}{$name}";
 
             if (!class_exists($className)) {
